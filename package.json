@@ -5,6 +5,7 @@
 		"freecodecamp",
 		"words"
 	],
+	"license": "MIT",
 	"name": "fcc-learn-npm-package-json",
 	"description": "A project that does something awesome",
 	"dependencies": {
