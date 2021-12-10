@@ -1,5 +1,10 @@
 {
 	"author": "Camila Parada Valderrama",
+	"keywords": [
+		"descriptive",
+		"freecodecamp",
+		"words"
+	],
 	"name": "fcc-learn-npm-package-json",
 	"description": "A project that does something awesome",
 	"dependencies": {
